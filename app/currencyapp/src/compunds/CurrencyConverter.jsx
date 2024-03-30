@@ -52,7 +52,7 @@ const CurrencyConverter = () => {
          <div className='currency-three' >
         <label>
           Amount:
-          <input type="text"  value={amount} onChange={handleAmountChange} className='Inputfli' />
+          <input type="text"  value={amount} placeholder='Amount' onChange={handleAmountChange} className='Inputfli' />
         </label>
       </div>
       <div>
