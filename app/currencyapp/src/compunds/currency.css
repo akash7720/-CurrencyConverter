@@ -52,3 +52,17 @@
 .Selectas-one{
     margin-left: 10px;
 }
+
+
+@media screen and (max-width:650px ){
+
+    .Currency-two{
+        border: 1px solid gray;
+     width: 100%;
+   
+    }
+    .Inputfli{
+        width: 100px;
+    }
+
+  }
